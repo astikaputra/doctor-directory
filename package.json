@@ -1,0 +1,22 @@
+{
+  "name": "doctor-directory",
+  "version": "1.0.0",
+  "description": "Aplikasi Doctor Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astikaputra/doctor-directory.git"
+  },
+  "keywords": [
+    "doctor-directory"
+  ],
+  "author": "Wirasa Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astikaputra/doctor-directory/issues"
+  },
+  "homepage": "https://github.com/astikaputra/doctor-directory#readme"
+}
